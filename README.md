@@ -29,7 +29,6 @@ Linguagens & Tecnologias: `Python`, `JavaScript`
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙲𝚘𝚗𝚝𝚊𝚝𝚘 
 
-
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 <a href="https://www.instagram.com/fer.campossz/" title="Instagram">
